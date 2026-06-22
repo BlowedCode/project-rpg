@@ -107,3 +107,45 @@ I giocatori devono essere incentivati a migliorare continuamente la propria effi
 Classifiche, dungeon, boss e altri sistemi competitivi devono valorizzare la capacità del giocatore di ottimizzare il proprio personaggio e padroneggiare il contenuto PvE.
 
 La competizione tra giocatori non deve dipendere principalmente dal PvP diretto.
+
+# 3. Character and Account Progression Philosophy
+
+La progressione del gioco sarà principalmente basata sul personaggio attualmente utilizzato.
+
+Il personaggio rappresenta la principale fonte di potere, equipaggiamento, progressione e accesso ai contenuti.
+
+Tuttavia, il gioco includerà sistemi di progressione secondaria a livello account per incentivare la creazione e lo sviluppo di personaggi alternativi.
+
+## Design Goals
+
+* Mantenere forte l'identità del personaggio principale.
+* Premiare la conoscenza di più classi.
+* Incentivare la creazione di personaggi alternativi senza renderli obbligatori.
+* Fornire obiettivi di progressione a lungo termine.
+
+## Character Progression
+
+La maggior parte della potenza del giocatore deriverà da:
+
+* Livello.
+* Equipaggiamento.
+* Abilità.
+* Progressione specifica della classe.
+* Sistemi avanzati di crescita.
+
+## Account Progression
+
+L'account potrà ottenere vantaggi permanenti tramite:
+
+* Traguardi raggiunti da personaggi alternativi.
+* Collezioni.
+* Completamento di contenuti specifici.
+* Sistemi di progressione condivisi.
+
+I bonus account-wide dovranno essere significativi ma non tali da sostituire l'importanza della progressione del singolo personaggio.
+
+## Alt Characters
+
+I personaggi alternativi rappresentano una scelta strategica e non un requisito obbligatorio.
+
+I giocatori che investono tempo nello sviluppo di più personaggi potranno ottenere vantaggi in termini di efficienza, risorse e progressione complessiva dell'account.
