@@ -69,3 +69,41 @@ Il gioco potrà includere sistemi automatici, semi-automatici o di progressione 
 Il grind rappresenta una componente fondamentale dell'esperienza e non deve essere eliminato. L'obiettivo è rendere il grind divertente, efficiente e soddisfacente, evitando attività ripetitive prive di progressione percepita o decisioni significative.
 
 Il gioco non dovrà mai trasformarsi in un gacha game, in un simulatore di collezione cosmetica o in un'esperienza esclusivamente PvP.
+
+# 2. Core Pillars
+
+## Pillar 1 - Progressione Continua
+
+Ogni attività svolta dal giocatore deve contribuire in modo percepibile alla crescita del proprio account, dei propri personaggi o delle proprie risorse.
+
+Il giocatore deve avere la sensazione di avanzare costantemente verso un obiettivo, sia durante sessioni brevi che durante sessioni prolungate.
+
+---
+
+## Pillar 2 - Skill Expression
+
+La difficoltà del gioco deve derivare principalmente dalla comprensione delle meccaniche e dall'esecuzione del giocatore, non dal semplice investimento di tempo.
+
+I contenuti più impegnativi devono premiare preparazione, conoscenza e abilità.
+
+La differenza tra un giocatore esperto e uno inesperto deve essere chiaramente percepibile.
+
+---
+
+## Pillar 3 - Grind Divertente
+
+Il grind rappresenta una componente centrale dell'esperienza.
+
+Le attività ripetibili devono essere progettate per rimanere soddisfacenti nel lungo periodo attraverso progressione tangibile, ottimizzazione, varietà di approcci e obiettivi chiari.
+
+Il gioco non deve offrire scorciatoie che permettano di ignorare completamente il percorso di progressione previsto.
+
+---
+
+## Pillar 4 - Competizione PvE
+
+I giocatori devono essere incentivati a migliorare continuamente la propria efficienza e le proprie prestazioni.
+
+Classifiche, dungeon, boss e altri sistemi competitivi devono valorizzare la capacità del giocatore di ottimizzare il proprio personaggio e padroneggiare il contenuto PvE.
+
+La competizione tra giocatori non deve dipendere principalmente dal PvP diretto.
